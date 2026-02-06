@@ -13,7 +13,7 @@ python climate_analysis.py
 
 This mini project:
 - Reads a CSV/text file from disk
--Extracts headers from the first line
--Converts each data row into a Python dictionary
--Returns a list of dictionaries for easy analysis
+- Extracts headers from the first line
+- Converts each data row into a Python dictionary
+- Returns a list of dictionaries for easy analysis
 
